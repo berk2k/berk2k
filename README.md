@@ -69,9 +69,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="40" height="40"/>
       </a>
       <br>
-      <a href="https://spark.apache.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache-spark/apache-spark-original.svg" width="40" height="40"/>
-      </a>
+      
     </td>
   </tr>
 </table>
