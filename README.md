@@ -1,5 +1,5 @@
 ## Hi! I am Berk Polat 👋
-A passionate Backend Developer from Turkey
+A passionate Backend Developer from Turkey <br/>
       I am mostly using C# for my personal projects
 <!--
 **berk2k/berk2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
