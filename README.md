@@ -72,6 +72,9 @@
   </tr>
 </table>
 
+## Connect with me
+
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.svg)](https://www.linkedin.com/in/berk2k/)
 
 
 
