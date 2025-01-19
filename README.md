@@ -51,13 +51,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
       </a>
     </td>
-    <td align="left" width="200" height="150">
+    <td align="left" width="200" height="150" valign="top">
       <strong>DevOps</strong><br>
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
       </a>
     </td>
-    <td align="left" width="200" height="150">
+    <td align="left" width="200" height="150" valign="top">
       <strong>Others</strong><br>
       <a href="https://www.rabbitmq.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="60" height="60"/>
