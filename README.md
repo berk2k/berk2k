@@ -74,7 +74,7 @@
 
 ## Connect with me
 
-[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo_2023.img)](https://www.linkedin.com/in/berk2k/)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_icon.svg)](https://www.linkedin.com/in/berk2k/)
 
 
 
