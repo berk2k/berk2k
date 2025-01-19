@@ -7,7 +7,7 @@
 
 <table>
   <tr>
-    <td align="center" width="200" height="150">
+    <td align="left" width="200" height="150">
       <strong>Frontend</strong><br>
       <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
@@ -29,7 +29,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="200" height="150">
+    <td align="left" width="200" height="150">
       <strong>Backend</strong><br>
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60"/>
@@ -51,13 +51,13 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="200" height="150">
+    <td align="left" width="200" height="150">
       <strong>DevOps</strong><br>
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
       </a>
     </td>
-    <td align="center" width="200" height="150">
+    <td align="left" width="200" height="150">
       <strong>Others</strong><br>
       <a href="https://www.rabbitmq.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="60" height="60"/>
