@@ -74,8 +74,8 @@
 
 ## Connect with me
 
-<a href="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/LinkedIn_icon.svg" width="40" height="40" alt="LinkedIn Logo"/>
+<a href="https://www.linkedin.com/in/berk2k/">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"/>
 </a>
 
 
