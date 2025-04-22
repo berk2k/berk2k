@@ -1,7 +1,7 @@
 ## Hi! I am Berk Polat 👋
 **A passionate Backend Developer from Turkey** <br/>
 **I am mostly using C# for my personal projects** <br/>
-- 🌱 I’m currently learning **Cloud, Docker, DevOps, Python for AI, RabbitMQ, Node.js**
+- 🌱 I’m currently learning **Cloud, Docker, DevOps, Python for AI, RabbitMQ, Node.js, SaaS**
 
 ## My Skill Set
 
