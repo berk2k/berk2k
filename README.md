@@ -1,7 +1,7 @@
 ## Hi! I am Berk Polat 👋
 **A passionate Software Engineer from Turkey** <br/>
 **I am mostly using C#, Node.js for my personal projects** <br/>
-- 🌱 I’m currently learning **Cloud, Docker, DevOps, Python for AI, Node.js, SaaS, Ubuntu**
+- 🌱 I’m currently learning **Cloud, Docker, DevOps, Python for AI, Node.js, SaaS, Ubuntu, React**
 
 ## My Skill Set
 
