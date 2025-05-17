@@ -68,6 +68,9 @@
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
       </a>
+      <a href="https://github.com/features/actions" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+      </a>
     </td>
     <td align="left" width="200" height="150" valign="top">
       <strong>Others</strong><br>
@@ -77,7 +80,7 @@
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="60" height="60"/>
       </a>
-      <a href="https://www.informatica.com/" target="_blank">
+      <a href="https://spark.apache.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="60" height="60"/>
       </a>
     </td>
