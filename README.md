@@ -89,7 +89,7 @@
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berk2k&layout=compact&theme=radical)
 
---
+---
 ## 🔗 Connect with me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/berk2k/)
