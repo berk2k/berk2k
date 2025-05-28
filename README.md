@@ -1,6 +1,6 @@
 ## Hi! I am Berk Polat 👋
 **I am a Software Engineer with a strong focus on backend technologies.** <br/>
-**I am mostly using C#, Node.js, Docker for my personal projects** <br/>
+**I am mostly using C#, Node.js, MSSQL, PostgreSQL, Docker for my personal projects** <br/>
 
 🌱 Currently learning:
 
