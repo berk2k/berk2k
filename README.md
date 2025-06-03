@@ -10,7 +10,7 @@
 
 **Frontend & Tools**: React, Ubuntu
 
-**Software Models**: Software architecture and design for modern large scale systems,SaaS architectures
+**Software Models**: Software architecture and design for modern large scale systems
 
 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
