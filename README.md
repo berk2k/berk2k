@@ -19,7 +19,7 @@
 
 <table>
   <tr>
-    <td align="left" width="200" height="150">
+    <td align="left" width="200" valign="top">
       <strong>Frontend</strong><br>
       <a href="https://www.python.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
@@ -41,7 +41,7 @@
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
       </a>
     </td>
-    <td align="left" width="200" height="150">
+    <td align="left" width="200" height="150" valign="top">
       <strong>Backend</strong><br>
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height="60"/>
@@ -67,12 +67,15 @@
       </a>
     </td>
     <td align="left" width="200" height="150" valign="top">
-      <strong>DevOps</strong><br>
+      <strong>DevOps & Cloud</strong><br>
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/>
       </a>
       <a href="https://github.com/features/actions" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" height="60"/>
+      </a>
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="60" height="60"/>
       </a>
     </td>
     <td align="left" width="200" height="150" valign="top">
