@@ -23,9 +23,6 @@
       Frontend
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
       <a href="https://flask.palletsprojects.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
@@ -94,6 +91,9 @@
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+       <a href="https://www.python.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" style="margin: 3px;"/>
