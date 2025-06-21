@@ -41,6 +41,9 @@
       <a href="https://getbootstrap.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -50,9 +53,6 @@
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;"/>
@@ -68,6 +68,9 @@
       </a>
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+      <a href="https://www.rabbitmq.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
     </td>
   </tr>
@@ -92,9 +95,6 @@
       Others
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://www.rabbitmq.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
