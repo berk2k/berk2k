@@ -62,6 +62,9 @@
       <a href="https://git-scm.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/>
       </a>
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
+      </a>
     </td>
     <td align="left" width="200" height="150" valign="top">
       <strong>DevOps</strong><br>
