@@ -4,9 +4,9 @@
 
 🌱 Currently learning:
 
-**Cloud & DevOps**: Cloud infrastructures, Docker, CI/CD pipelines
+**Cloud & DevOps**: Cloud infrastructures, Docker, CI/CD pipelines, IaC
 
-**Programming & AI**: Machine learning, Node.js
+**Programming & AI**: AI Automation, Node.js
 
 **Frontend & Tools**: React, Ubuntu
 
