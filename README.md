@@ -16,7 +16,7 @@
 
 ---
 
-## My Skill Set
+## Tech Stack
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
