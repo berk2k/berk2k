@@ -10,7 +10,7 @@
 
 **Frontend & Tools**: React, Ubuntu
 
-**Software architecture and design for modern large scale systems, Microservices**
+**Software architecture and design for modern large scale systems, microservices**
 
 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
