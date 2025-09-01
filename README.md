@@ -23,9 +23,6 @@
       Frontend
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
@@ -100,6 +97,9 @@
       </a>
       <a href="https://spark.apache.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
     </td>
   </tr>
