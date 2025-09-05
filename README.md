@@ -6,9 +6,9 @@
 
 **Cloud & DevOps**: Cloud infrastructures, Docker, CI/CD pipelines
 
-**Programming & AI**: AI Automation, Node.js
+**Frameworks & AI**: AI Automation, Node.js
 
-**Frontend & Tools**: React, Ubuntu
+**Frontend**: React, Typescript, TailwindCSS
 
 **Software architecture and design for modern large scale systems, microservices**
 
