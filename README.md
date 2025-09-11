@@ -10,7 +10,9 @@
 
 **Frontend**: React, Typescript, TailwindCSS
 
-**Software architecture and design for modern large scale systems, microservices**
+-**Software architecture and design for modern large scale systems, microservices**
+
+-**Observability**
 
 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
