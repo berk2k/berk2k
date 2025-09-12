@@ -12,7 +12,7 @@
 
 -**Software architecture and design for modern large scale systems, microservices**
 
--**Observability : OpenTelemetry, Serilog, Prometheus, and Grafana **
+-**Observability : OpenTelemetry, Serilog, Prometheus, and Grafana**
 
 🚀 Always eager to explore new technologies and build scalable, efficient solutions.
 
