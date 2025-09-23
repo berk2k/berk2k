@@ -109,7 +109,7 @@
 
 
 ---
-
+![Github Stats](https://github-readme-stats.vercel.app/api?username=berk2k&show_icons=true&theme=radical)
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berk2k&layout=compact&theme=radical)
 
