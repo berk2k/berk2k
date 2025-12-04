@@ -1,14 +1,12 @@
 ## Hi! I am Berk Polat 👋
 **I am a Software Engineer with a strong focus on backend technologies.** <br/>
 **I am mostly using ASP.NET CORE, Node.js, MSSQL, PostgreSQL, Docker, Azure Cloud for my personal projects.**<br/> 
-**Currently learning Golang to build high-performance backend services, CLI tools, and distributed system components 
+**Currently working on Golang to build high-performance backend services, CLI tools, and distributed system components 
 such as logging pipelines, observability agents, and event-driven microservices.** <br/>
 
 🌱 Currently learning:
 
 **Cloud & DevOps**: Cloud infrastructures, Docker, CI/CD pipelines
-
-**Frameworks & AI**: AI Automation, Node.js
 
 **Frontend**: React, Typescript, TailwindCSS
 
