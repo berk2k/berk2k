@@ -1,20 +1,8 @@
 ## Hi! I am Berk Polat 👋
-**I am a Software Engineer with a strong focus on backend technologies.** <br/>
-**I am mostly using ASP.NET CORE, Node.js, MSSQL, PostgreSQL, Docker, Azure Cloud for my personal projects.**<br/> 
-**Currently working on Golang to build high-performance backend services, CLI tools, and distributed system components 
-such as logging pipelines, observability agents, and event-driven microservices.** <br/>
+**Software Engineer focused on backend and large-scale systems.** <br/> 
+**I enjoy studying how systems behave under load - reliability, observability, and performance and turning those insights into robust services.** <br/>
 
-🌱 Currently learning:
-
-**Cloud & DevOps**: Cloud infrastructures, Docker, CI/CD pipelines
-
-**Frontend**: React, Typescript, TailwindCSS
-
--**Software architecture and design for modern large scale systems, microservices**
-
--**Observability : OpenTelemetry, Serilog, Prometheus, and Grafana**
-
-🚀 Always eager to explore new technologies and build scalable, efficient solutions.
+**Writing about backend & cloud-native engineering: https://medium.com/@berk2k**
 
 ---
 
@@ -22,54 +10,64 @@ such as logging pipelines, observability agents, and event-driven microservices.
 <table style="border-collapse: collapse;">
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Frontend
+      Backend & Systems
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" style="margin: 3px;"/>
+      <a href="https://go.dev/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://getbootstrap.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Backend
-    </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://dotnet.microsoft.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;"/>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;"/>
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
+      Messaging & Observability
+    </td>
+    <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://www.rabbitmq.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+      <a href="https://opentelemetry.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+      <a href="https://prometheus.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+      <a href="https://grafana.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
     </td>
   </tr>
+
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      DevOps & Cloud
+      Data
+    </td>
+    <td style="border: none; padding: 5px 10px; vertical-align: top;">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
+      Cloud & DevOps
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://www.docker.com/" target="_blank">
@@ -83,43 +81,29 @@ such as logging pipelines, observability agents, and event-driven microservices.
       </a>
     </td>
   </tr>
+
   <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Others
+      Frontend
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" style="margin: 3px;"/>
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-       <a href="https://www.python.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" style="margin: 3px;"/>
+      <a href="https://www.typescriptlang.org/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://spark.apache.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" height="50" style="margin: 3px;"/>
+      <a href="https://tailwindcss.com/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
     </td>
   </tr>
 </table>
 
 
----
-![Github Stats](https://github-readme-stats.vercel.app/api?username=berk2k&show_icons=true&theme=radical)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=berk2k&show_icons=true&theme=radical) -->
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berk2k&layout=compact&theme=radical)
-
----
-## 🔗 Connect with me
-
-- 🔗 [LinkedIn](https://www.linkedin.com/in/berk2k/)
-- 📝 [Medium](https://medium.com/@berk2k)  
-
-
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berk2k&layout=compact&theme=radical) -->
 
 
 
