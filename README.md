@@ -3,6 +3,7 @@
 **I enjoy studying how systems behave under load - reliability, observability, and performance and turning those insights into robust services.** <br/>
 
 **Writing about backend & cloud-native engineering: https://medium.com/@berk2k**
+**Maintainer of FlowMediator (NuGet) - explicit CQRS flow for .NET (SendAsync vs PublishAsync): https://www.nuget.org/packages/FlowMediator**
 
 ---
 
