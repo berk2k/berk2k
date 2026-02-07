@@ -56,16 +56,22 @@
     </td>
   </tr>
 
-  <tr>
+<tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Data
+      Databases & Storage
     </td>
     <td style="border: none; padding: 5px 10px; vertical-align: top;">
       <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;" alt="PostgreSQL"/>
       </a>
       <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;" alt="SQL Server"/>
+      </a>
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" style="margin: 3px;" alt="Redis"/>
+      </a>
+      <a href="https://www.backblaze.com/b2/cloud-storage.html" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/backblaze/backblaze-icon.svg" width="50" height="50" style="margin: 3px;" alt="Backblaze B2"/>
       </a>
     </td>
   </tr>
