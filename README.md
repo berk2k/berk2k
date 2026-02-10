@@ -24,9 +24,6 @@
       <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
       <a href="https://nodejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
