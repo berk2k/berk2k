@@ -41,6 +41,9 @@
       <a href="https://www.rabbitmq.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+      <a href="https://aws.amazon.com/sqs/" target="_blank">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-sqs.svg" width="50" height="50"/>
+      </a>
       <a href="https://opentelemetry.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
@@ -53,7 +56,7 @@
     </td>
   </tr>
 
-<tr>
+  <tr>
     <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
       Databases & Storage
     </td>
@@ -66,6 +69,12 @@
       </a>
       <a href="https://redis.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" style="margin: 3px;" alt="Redis"/>
+      </a>
+      <a href="https://aws.amazon.com/s3/" target="_blank">
+         <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-s3.svg" width="50" height="50"/>
+      </a>
+      <a href="https://aws.amazon.com/dynamodb/" target="_blank">
+          <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-dynamodb.svg" width="50" height="50"/>
       </a>
       <a href="https://www.backblaze.com/b2/cloud-storage.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/backblaze/backblaze-icon.svg" width="50" height="50" style="margin: 3px;" alt="Backblaze B2"/>
@@ -81,6 +90,9 @@
       <a href="https://www.docker.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
+      <a href="https://www.terraform.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin: 3px;"/>
+      </a>
       <a href="https://github.com/features/actions" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin: 3px;"/>
       </a>
@@ -89,24 +101,8 @@
       </a>
     </td>
   </tr>
-
-  <tr>
-    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Frontend
-    </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-    </td>
-  </tr>
 </table>
+
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=berk2k&show_icons=true&theme=radical) -->
