@@ -1,6 +1,6 @@
 ## Hi! I am Berk Polat 👋
-**Software Engineer focused on backend and distributed systems.** <br/> 
-**I enjoy studying how systems behave under load - reliability, observability, and performance and turning those insights into robust services.** <br/>
+**I build backend systems and explore distributed systems concepts through code, writing, and open source.** <br/>
+**I’m especially interested in reliability, observability, performance, and the trade-offs behind how systems behave under real conditions.** <br/>
 
 **Writing about backend & cloud-native engineering: https://medium.com/@berk2k**<br/>
 
