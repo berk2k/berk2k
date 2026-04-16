@@ -9,97 +9,39 @@
 ---
 
 ## Tech Stack
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Backend & Systems
-    </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://go.dev/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://dotnet.microsoft.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://nodejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://www.typescriptlang.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-    </td>
-  </tr>
 
+<table>
   <tr>
-    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Messaging & Observability
-    </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://www.rabbitmq.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://aws.amazon.com/sqs/" target="_blank">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-sqs.svg" width="50" height="50"/>
-      </a>
-      <a href="https://opentelemetry.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://prometheus.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://grafana.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-    </td>
+    <td><b>Backend & Systems</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="50" height="50" alt="Go" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" alt=".NET" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="Node.js" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" /></td>
   </tr>
-
   <tr>
-    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Databases & Storage
-    </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" style="margin: 3px;" alt="PostgreSQL"/>
-      </a>
-      <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" style="margin: 3px;" alt="SQL Server"/>
-      </a>
-      <a href="https://redis.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" style="margin: 3px;" alt="Redis"/>
-      </a>
-      <a href="https://aws.amazon.com/s3/" target="_blank">
-         <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-s3.svg" width="50" height="50"/>
-      </a>
-      <a href="https://aws.amazon.com/dynamodb/" target="_blank">
-          <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-dynamodb.svg" width="50" height="50"/>
-      </a>
-      <a href="https://www.backblaze.com/b2/cloud-storage.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/backblaze/backblaze-icon.svg" width="50" height="50" style="margin: 3px;" alt="Backblaze B2"/>
-      </a>
-    </td>
+    <td><b>Messaging & Observability</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" width="50" height="50" alt="RabbitMQ" /></td>
+    <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-sqs.svg" width="50" height="50" alt="AWS SQS" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opentelemetry/opentelemetry-original.svg" width="50" height="50" alt="OpenTelemetry" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" height="50" alt="Grafana" /></td>
   </tr>
-
   <tr>
-    <td style="border: none; padding: 5px 10px; vertical-align: top; font-weight: bold; white-space: nowrap;">
-      Cloud & DevOps
-    </td>
-    <td style="border: none; padding: 5px 10px; vertical-align: top;">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://www.terraform.io/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://github.com/features/actions" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-      <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" style="margin: 3px;"/>
-      </a>
-    </td>
+    <td><b>Databases & Storage</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" height="50" alt="SQL Server" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" height="50" alt="Redis" /></td>
+    <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-s3.svg" width="50" height="50" alt="AWS S3" /></td>
+    <td><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/aws-dynamodb.svg" width="50" height="50" alt="AWS DynamoDB" /></td>
+    <td><img src="https://www.vectorlogo.zone/logos/backblaze/backblaze-icon.svg" width="50" height="50" alt="Backblaze B2" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub Actions" /></td>
+    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" /></td>
   </tr>
 </table>
 
