@@ -2,7 +2,7 @@
 **I build backend systems and explore distributed systems concepts through code, writing, and open source.** <br/>
 **I’m especially interested in reliability, observability, performance, and the trade-offs behind how systems behave under real conditions.** <br/>
 
-**Writing about backend & cloud-native engineering: https://medium.com/@berk2k**<br/>
+**Writing about software engineering: https://medium.com/@berk2k**<br/>
 
 **Maintainer of FlowMediator - explicit CQRS flow for .NET: https://github.com/berk2k/FlowMediator**
 
