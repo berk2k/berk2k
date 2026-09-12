@@ -3,9 +3,6 @@
 **I’m especially interested in reliability, observability, performance, and the trade-offs behind how systems behave under real conditions.** <br/>
 
 **Writing about computer science: https://medium.com/@berk2k**<br/>
-
-**Maintainer of FlowMediator - explicit CQRS flow for .NET: https://github.com/berk2k/FlowMediator**
-
 ---
 
 ## Tech Stack
