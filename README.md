@@ -8,6 +8,7 @@
 
 ## Tech Stack
 
+<!---
 <table>
   <tr>
     <td><b>Backend & Systems</b></td>
@@ -42,7 +43,7 @@
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50" height="50" alt="Azure" /></td>
   </tr>
 </table>
-
+-->
 
 
 <!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=berk2k&show_icons=true&theme=radical) -->
