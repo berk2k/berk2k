@@ -6,9 +6,8 @@
 
 ---
 
-## Tech Stack
-
 <!---
+## Tech Stack
 <table>
   <tr>
     <td><b>Backend & Systems</b></td>
